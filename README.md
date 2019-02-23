@@ -1,4 +1,4 @@
 # hello-world
-Doing A tutorial
+Hi there
 
 Hi I'm CamCamBos!
